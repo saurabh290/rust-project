@@ -1,16 +1,12 @@
 fn main() {
-    let x = 4;
-    let CONSTANT_VALUE: u32 = 100_000; // constant value
+    let tuple = (4, "saurabh", 7, 9.8);
+    println!("Tuple: {}", tuple.1);
 
-    println!("constant value is: {CONSTANT_VALUE}");
+    let arr: [i32; 5] = [1,2,3,4,5];
+    println!("Array: {}", arr[2]);
 
-    println!("value of x is: {x}");
-
-    {
-        let x = x * 2;
-        println!("value of x in inner scope is: {x}");
-    }
-
-    let x = "hello";
-    println!("new value of x is: {x}");
+    let x = 445900_i64;
+    let y = 100 as i32;
+    let z = x / (y as i64);
+    println!("z: {}", z);
 }
