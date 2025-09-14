@@ -1,0 +1,4 @@
+1. Rust is a statically and strongly typed language.
+2. By default any variable defined in rust are immutable. To make them mutable we need to add "mut" keyword. 
+    e.g: let mut x = 4;
+    
