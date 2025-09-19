@@ -6,3 +6,5 @@
     rustfmt <filename>
 * By default any variable defined in rust are immutable. To make them mutable we need to add "mut" keyword. 
     e.g: let mut x = 4;
+* Link : https://doc.rust-lang.org/rust-by-example/
+* Link2: https://www.rust-lang.org/learn
