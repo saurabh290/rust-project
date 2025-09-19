@@ -8,3 +8,4 @@
     e.g: let mut x = 4;
 * Link : https://doc.rust-lang.org/rust-by-example/
 * Link2: https://www.rust-lang.org/learn
+* youtube full course: https://www.youtube.com/watch?v=qP7LzZqGh30
